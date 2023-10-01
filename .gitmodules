@@ -1,0 +1,6 @@
+[submodule "shop-api"]
+	path = shop-api
+	url = https://github.com/MWaqasMW/shop-api
+[submodule "shop-ui"]
+	path = shop-ui
+	url = https://github.com/MWaqasMW/shop-ui
